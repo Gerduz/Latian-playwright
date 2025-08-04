@@ -1,0 +1,22 @@
+{
+  "name": "latian-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gerduz/Latian-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gerduz/Latian-playwright/issues"
+  },
+  "homepage": "https://github.com/Gerduz/Latian-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.1.0"
+  }
+}
